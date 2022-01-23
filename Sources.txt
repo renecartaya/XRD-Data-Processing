@@ -1,0 +1,3 @@
+Sources:
+
+[1] https://chrisostrouchov.com/post/peak_fit_xrd_python/
