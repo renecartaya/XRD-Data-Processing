@@ -9,4 +9,4 @@ The seto of tools includes:
  3) Curve fitting.
  4) Peak detection. 
 
-The project includes the use of Machine Learning tools. 
+The project includes the implementation of Machine Learning algorithms. 
