@@ -2,7 +2,7 @@
 
 Project for processing and data visualization of XRD experimental data.
 
-The seto of tools includes:
+The set of tools includes:
 
  1) Data Acquisition.
  2) Data Visualization.
