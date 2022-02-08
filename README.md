@@ -1,6 +1,6 @@
 # XRD-processing
 
-Project for processing and data visualization of XRD experimental signals.
+Project for processing and data visualization of XRD experimental data.
 
 The set of tools includes:
 
