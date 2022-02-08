@@ -1,4 +1,4 @@
-# XRD-Signal-Processing
+# XRD-processing
 
 Project for processing and data visualization of XRD experimental signals.
 
